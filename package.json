@@ -1,0 +1,26 @@
+{
+  "name": "string-reverse-string-1",
+  "version": "1.0.0",
+  "description": "sample library",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickgaurdian/string-reverse.git"
+  },
+  "keywords": [
+    "string",
+    "reverse"
+  ],
+  "author": "karthick.M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickgaurdian/string-reverse/issues"
+  },
+  "homepage": "https://github.com/karthickgaurdian/string-reverse#readme",
+  "dependencies": {
+    "string-reverse-string": "^1.0.0"
+  }
+}
